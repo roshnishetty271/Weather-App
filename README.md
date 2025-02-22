@@ -13,12 +13,11 @@ Responsive and modern Tailwind CSS design
 Displays city name, weather description, and temperature in Celsius
 
 
-Start the app:
+![image](https://github.com/user-attachments/assets/e6a8cbea-aead-41da-8668-30dbb449fa58)
 
-npm start
-Enter a city name in the input field.
-Click the Get Weather button.
-View the city's temperature and weather condition.
+
+
+
 
 Technologies Used:
 
