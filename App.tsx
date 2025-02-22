@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import axios from "axios";
 import { motion } from "framer-motion";
 
-const API_KEY = "d4d46ec315f375689b9ce9be1fd9c3ea"; // Replace with your OpenWeather API key
+const API_KEY = "YOUR_API_KEY"; // Replace with your OpenWeather API key
 const API_URL = "https://api.openweathermap.org/data/2.5/weather";
 
 const WeatherApp: React.FC = () => {
