@@ -1,14 +1,20 @@
 # Weather-App
 
 Weather App 🌤️
-Description
+
 This is a simple and intuitive Weather App built using React, TypeScript, Tailwind CSS, and Framer Motion. It fetches real-time weather data from the OpenWeather API based on the user's input city. The UI is designed with smooth animations and a modern gradient background for an enhanced user experience.
 
 Features
+
 Fetches live weather data using OpenWeather API
+
 Smooth animations with Framer Motion
+
 Responsive and modern Tailwind CSS design
+
 Displays city name, weather description, and temperature in Celsius
+
+
 Installation
 Clone the repository:
 bash
