@@ -13,27 +13,9 @@ Responsive and modern Tailwind CSS design
 Displays city name, weather description, and temperature in Celsius
 
 
-Installation:
-
-Clone the repository:
-bash
-Copy
-Edit
-git clone https://github.com/your-repo/weather-app.git
-cd weather-app
-
-Install dependencies:
-bash
-Copy
-Edit
-npm install
-
 Start the app:
-bash
-Copy
-Edit
+
 npm start
-Usage
 Enter a city name in the input field.
 Click the Get Weather button.
 View the city's temperature and weather condition.
